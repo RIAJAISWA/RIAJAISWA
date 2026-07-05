@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi 👋, I'm Riya
 
-<!--
-**RIAJAISWA/RIAJAISWA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Automation Test Engineer | Mobile Automation Enthusiast
 
-Here are some ideas to get you started:
+Passionate about building reliable test automation solutions and improving software quality through efficient testing practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+* Java
+* Selenium
+* Appium
+* TestNG
+* JUnit
+* Android Automation
+* ADB
+* Maven
+* Git & GitHub
+* Android Studio
+
+## 🌱 Currently Learning
+
+* Advanced Mobile Automation
+* Automation Framework Design
+* API Testing
+* CI/CD Integration
+* AI in Testing
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/YOUR_USERNAME
+* LinkedIn: https://linkedin.com/in/YOUR_PROFILE
